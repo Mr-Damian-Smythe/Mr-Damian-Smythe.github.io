@@ -1,3 +1,11 @@
+---
+layout: post
+title: "A Short Hike"
+description: Simple Review Of A Short Hike.
+date: 2025-01-17 00:17:07 -0200
+tags: Game Review
+---
+
 # A Short Hike
 
 ## Table of contents
