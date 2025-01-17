@@ -8,10 +8,12 @@ tags: Game-Review
 
 # A Short Hike
 
-## Table of contents
+## Table of Contents
 * Why is it worth your time?
 * Sound design
+* Graphics
 * Cozy factor
+* Scores
 
 ## Why is it worth your time?
 
