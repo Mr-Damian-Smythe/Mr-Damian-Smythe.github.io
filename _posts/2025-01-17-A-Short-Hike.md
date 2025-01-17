@@ -1,4 +1,6 @@
-# Table of contents
+# A Short Hike
+
+## Table of contents
 * Why is it worth your time?
 * Sound design
 * Cozy factor
