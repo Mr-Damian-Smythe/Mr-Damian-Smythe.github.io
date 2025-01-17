@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Web-Fishing"
-description: Simple Review Of Web-Fishing.
+title: "WebFishing"
+description: Simple Review Of WebFishing.
 date: 2025-01-17 00:17:15 -0200
 tags: Game-Review
 ---
